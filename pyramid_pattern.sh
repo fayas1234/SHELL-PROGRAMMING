@@ -17,7 +17,7 @@ do
 	done
 	echo
 	
-	let row=$row+1 #let row++
+	let row=$row+1 #or can use let row++
 done
 
 
